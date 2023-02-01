@@ -1,0 +1,90 @@
+
+
+#contenido{
+  max-width:95%;
+  background-color:#FBE5D8;
+ /* background-color:##655045;*/
+  text-align:left;
+  margin:auto;
+  padding:3px;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+
+}
+
+
+#contenido section  h3{
+
+  text-align: justify;
+  padding:10px; 
+
+}
+
+
+header{
+  background-color:##F6D498;
+  height:60px;
+  margin-bottom:5px;
+  font-size: 25px
+  color:#3F3D40 bold;
+}
+
+
+nav{
+
+  background-color:#432950;
+  height:60px;
+  margin-bottom:3px;
+}
+
+
+nav h3{
+  color: white ;
+  size: 30px;
+ text-align: center;
+ padding: 15px;
+ 
+}
+nav ul{
+  padding-top:20px;
+  text-align:center;
+  width: 50%;
+}
+
+nav ul li{
+  list-style:none;
+  display:inline;
+}
+
+nav ul li a{
+  color:#FFFF;
+  text-decoration:none;
+  margin-right:80px;
+  font-size:20px;
+
+}
+
+
+footer{
+  background-color:#432950;
+  height:150px;
+  text-align:center;
+ padding:1px;
+ color:white;
+ 
+}
+
+footer ul li{
+  color: white
+  list-style:none;
+  display:inline;
+}
+
+
+
+/*----------- Formulario CV-------------*/
+
+form{
+  padding: 15px;
+}
+
